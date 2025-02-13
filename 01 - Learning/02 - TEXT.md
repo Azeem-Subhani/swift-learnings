@@ -17,7 +17,6 @@ Text View
 
 Some examples for Text View
 ```swift
-
     // Basic Text
     Text("Hello, World")
 
